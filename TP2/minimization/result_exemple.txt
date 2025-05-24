@@ -1,0 +1,28 @@
+Iniciando AG: População=100, Gerações=200, CX_Prob=0.85, Mut_Prob_Gene=0.05, Sigma_Mut=0.2, K_Tournament=3, Elitismo=False
+
+Geração 10/200: Melhor Obj da Geração=5.120272, Melhor Obj Geral=5.120272
+Geração 20/200: Melhor Obj da Geração=0.471580, Melhor Obj Geral=0.455226
+Geração 30/200: Melhor Obj da Geração=0.093922, Melhor Obj Geral=0.085118
+Geração 40/200: Melhor Obj da Geração=0.014930, Melhor Obj Geral=0.014930
+Geração 50/200: Melhor Obj da Geração=0.006126, Melhor Obj Geral=0.006126
+Geração 60/200: Melhor Obj da Geração=0.003475, Melhor Obj Geral=0.003058
+Geração 70/200: Melhor Obj da Geração=0.001311, Melhor Obj Geral=0.001311
+Geração 80/200: Melhor Obj da Geração=0.001229, Melhor Obj Geral=0.000920
+Geração 90/200: Melhor Obj da Geração=0.000648, Melhor Obj Geral=0.000648
+Geração 100/200: Melhor Obj da Geração=0.000552, Melhor Obj Geral=0.000406
+Geração 110/200: Melhor Obj da Geração=0.000518, Melhor Obj Geral=0.000326
+Geração 120/200: Melhor Obj da Geração=0.000124, Melhor Obj Geral=0.000124
+Geração 130/200: Melhor Obj da Geração=0.000199, Melhor Obj Geral=0.000124
+Geração 140/200: Melhor Obj da Geração=0.000328, Melhor Obj Geral=0.000124
+Geração 150/200: Melhor Obj da Geração=0.000154, Melhor Obj Geral=0.000124
+Geração 160/200: Melhor Obj da Geração=0.000092, Melhor Obj Geral=0.000092
+Geração 170/200: Melhor Obj da Geração=0.000062, Melhor Obj Geral=0.000062
+Geração 180/200: Melhor Obj da Geração=0.000052, Melhor Obj Geral=0.000031
+Geração 190/200: Melhor Obj da Geração=0.000035, Melhor Obj Geral=0.000031
+Geração 200/200: Melhor Obj da Geração=0.000123, Melhor Obj Geral=0.000031
+
+--- Otimização Concluída ---
+Melhor indivíduo encontrado: [-0.0008  0.0005  0.0026 -0.0015 -0.      0.0017 -0.0009 -0.0025 -0.0034
+ -0.0002]
+Valor da função objetivo (mínimo): 0.00003079
+Fitness correspondente: 0.99996922
